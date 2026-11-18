@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Backup files
+*_backup*.py
+*.backup
+
+# Log files
+logs/*.log
+
+# Generated report
+report.json
+
+# Editor files
+.vscode/
